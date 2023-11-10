@@ -11,7 +11,7 @@ Currently I am in my senior year, some projects in my freetime include:
 - Cromulent Items, a Risk of Rain 2 Item Mod
 - Honkai: Star Rail Skins, a Risk of Rain 2 Skin Mod
 
-### ⚡ Learned Programs ⚡
+### ⚡ Proficient Programs ⚡
 - Unity
 - Blender
 - Miku Miku Dance
