@@ -1,4 +1,25 @@
-### Hi there 👋
+### 💬 About Me 💬
+
+I am a Full-Time student studying AI and Game Design under Computer Science at the University of North Carolina at Charlotte. 
+
+Gaming is something I've always had a large passion for with hopes to make it my full-time job in the future.
+
+![](https://komarev.com/ghpvc/?username=AlexStahlman&color=blueviolet&style=flat&label=Profile+Views)
+
+### 🔭 Currently Working On.. 🔭
+Currently I am in my senior year, some projects in my freetime include:
+- Cromulent Items, a Risk of Rain 2 Item Mod
+- Honkai: Star Rail Skins, a Risk of Rain 2 Skin Mod
+
+### ⚡ Learned Programs ⚡
+- Unity
+- Blender
+- Miku Miku Dance
+- GameMaker
+
+### 🌱 I’m currently learning 🌱
+- Unreal Engine
+- BepInEx/Thunderkit
 
 <!--
 **AlexStahlman/AlexStahlman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
