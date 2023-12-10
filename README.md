@@ -16,10 +16,10 @@ Currently I am in my senior year, some projects in my freetime include:
 - Blender
 - Miku Miku Dance
 - GameMaker
+- BepInEx/Thunderkit
 
 ### 🌱 I’m currently learning 🌱
 - Unreal Engine
-- BepInEx/Thunderkit
 
 <!--
 **AlexStahlman/AlexStahlman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
