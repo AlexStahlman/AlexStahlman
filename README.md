@@ -1,6 +1,6 @@
 ### 💬 About Me 💬
 
-I am a Full-Time student studying AI and Game Design under Computer Science at the University of North Carolina at Charlotte. 
+Graduated with a degree in AI and Game Design under Computer Science at the University of North Carolina at Charlotte. 
 
 Gaming is something I've always had a large passion for with hopes to make it my full-time job in the future.
 
