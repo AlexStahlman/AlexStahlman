@@ -7,7 +7,7 @@ Gaming is something I've always had a large passion for with hopes to make it my
 ![](https://komarev.com/ghpvc/?username=AlexStahlman&color=blueviolet&style=flat&label=Profile+Views)
 
 ### 🔭 Currently Working On.. 🔭
-Currently I am in my senior year, some projects in my freetime include:
+Some projects in my freetime include:
 - Cromulent Items, a Risk of Rain 2 Item Mod
 - Honkai: Star Rail Skins, a Risk of Rain 2 Skin Mod
 
